@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DNDCompendium"
+    }
+  },
+  "defaultProject": "DNDCompendium",
+  "cli": {
+    "analytics": false
+  }
 }
